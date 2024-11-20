@@ -1,0 +1,26 @@
+{
+    "fileVersion": "1",
+    "name": "Cordova-Hms-Push",
+    "description": "Huawei Push Cordova Plugin",
+    "zipName": "cordova-push-package",
+    "packageName": "cordova-plugin-hms-push",
+    "version": "6.3.0.304",
+    "type": "microService",
+    "processes": {
+        "Cordova-Hms-Push": {
+            "subscribes": []
+        }
+    },
+    "files": [
+        "hooks",
+        "ionic-native",
+        "src",
+        "types",
+        "www",
+        "LICENSE",
+        "package.json",
+        "plugin.xml",
+        "README.md",
+        "THIRD PARTY OPEN SOURCE SOFTWARE NOTICE.txt"
+    ]
+}
